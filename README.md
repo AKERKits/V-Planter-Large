@@ -12,10 +12,10 @@ We model each kit in SolidWorks. To access the parametric source files, download
 
 The **V Planter-Large** was modeled using our updated 2016 modeling workflow, which provides a wider range of options than our 2015 process. This source file pack has DXFs in the following formats:
 
- * 0.5 inch material & 0.375 inch tool or smaller
- * 0.75 inch material & 0.375 inch tool or smaller
- * 12 mm material & 10 mm tool or smaller
- * 18 mm material & 10 mm tool or smaller
+ * 0.5 in Sheet Thickness / 0.375 in. or Smaller Bit Diameter
+ * 0.75 in Sheet Thickness / 0.375 in. or Smaller Bit Diameter
+ * 12 mm Sheet Thickness / 10 mm or Smaller Bit Diameter
+ * 18 mm Sheet Thickness / 10 mm or Smaller Bit Diameter
 
 *Nesting Layout*
 
