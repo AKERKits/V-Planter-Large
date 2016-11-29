@@ -4,7 +4,7 @@
 
 The **AKER V Planter-Large** is a planter designed to be fabricated using a CNC router and standard sheet materials. For more information, visit the [AKER Website](http://www.akerkits.com).
 
-![V Planter-Large](https://github.com/AKERKits/V-Planter-Medium/blob/master/Images/AKER%20-%20V%20Planter-Large%20-%20v1.0%20-%20Master%20Assembly%20Cropped-min.jpg)
+![V Planter-Large](https://github.com/AKERKits/V-Planter-Large/blob/master/Images/AKER%20-%20V%20Planter-Large%20-%20v1.0%20-%20Master%20Assembly%20Cropped-min.jpg)
 
 *Source Files*
 
@@ -19,4 +19,4 @@ The **V Planter-Large** was modeled using our updated 2016 modeling workflow, wh
 
 *Nesting Layout*
 
-![V Planter-Large](https://github.com/AKERKits/V-Planter-Large/blob/master/Images/AKER%20-%20V%20Planter-Large%20-%20v1.0%20-%20Master%20Assembly%20Cropped-min.jpg)
+![V Planter-Large](https://github.com/AKERKits/V-Planter-Large/blob/master/Images/AKER%20-%20V%20Planter%20-%20v1.0%20-%20Nesting%20Assembly%20Cropped-min.jpg)
